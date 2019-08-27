@@ -9,5 +9,3 @@ class School
   end
   
 end
-
-School.roster
