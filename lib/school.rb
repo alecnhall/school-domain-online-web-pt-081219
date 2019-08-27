@@ -8,7 +8,6 @@ class School
     @roster = { }
   end
   
-  
 end
 
 School.roster
