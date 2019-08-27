@@ -10,4 +10,4 @@ class School
   
 end
 
-school.roster
+School.roster
