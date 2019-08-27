@@ -13,7 +13,5 @@ class School
     @roster[students_grade] << students_name
   end
   
-  School.roster
-  
 end
 
