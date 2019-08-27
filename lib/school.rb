@@ -14,5 +14,11 @@ class School
     end
   end
   
+  def grade 
+    @roster.each do |grade, students|
+      students
+    end
+  end
+  
 end
 
