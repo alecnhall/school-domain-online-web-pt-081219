@@ -6,10 +6,7 @@ class School
   
   def roster 
     @roster = {
-      9 => ["Alec"],
-      10: [],
-      11: [],
-      12: []
+      9 => ["Alec"]
     }
   end
   
